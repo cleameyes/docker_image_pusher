@@ -1,1 +1,1 @@
-mbentley/teamspeak：lastest
+mbentley/teamspeak
