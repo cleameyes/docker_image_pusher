@@ -1,1 +1,2 @@
 teamspeak:latest
+natfrp/launcher
