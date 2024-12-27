@@ -1,3 +1,4 @@
 teamspeak:latest
 natfrp/launcher
 kangkang223/baota
+msnelling/cloudflared:latest
