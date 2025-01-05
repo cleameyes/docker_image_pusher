@@ -1,6 +1,4 @@
 teamspeak:latest
 natfrp/launcher
 kangkang223/baota
-msnelling/cloudflared:latest
-cloudflare/cloudflared
-kangkang223/openwrt
+sulinggg/openwrt
