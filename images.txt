@@ -2,3 +2,4 @@ teamspeak:latest
 natfrp/launcher
 kangkang223/baota
 sulinggg/openwrt
+kangkang223/openwrt
